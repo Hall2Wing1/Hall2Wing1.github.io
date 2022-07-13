@@ -1,0 +1,36 @@
+#nav-bar{
+    background-color: white;
+    padding: 10pt;
+}
+#nav-bar-img{
+    /*height: 10%;
+    width: 10%;
+    float: left;*/
+    width: 106px;
+    height: 95px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-top: -6px;
+}
+#nav-bar-ul{
+    display: inline;
+    list-style-type: none;
+}
+/*.fix{
+    float: right;
+}*/
+.fix{
+    float: right;
+    padding-top: 15pt;
+    padding-right: 40pt;
+    margin-left: 10pt;
+}
+.nav-a{
+    text-decoration: none;
+    color: black;
+    font-size: 18pt;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.nav-a:hover{
+    text-decoration: underline;
+}
